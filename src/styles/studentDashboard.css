@@ -1,0 +1,28 @@
+.student-dashboard {
+    padding: 20px;
+  }
+  
+  .programs, .registered-programs {
+    margin-top: 20px;
+  }
+  
+  .programs ul, .registered-programs ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .programs li, .registered-programs li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
