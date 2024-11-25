@@ -1,3 +1,13 @@
+#This is a college dashboard 
+Here we have two login method one for admin second for students 
+admin can add programs which should be displayed on student dashboard
+student can query for program and register for the program as well
+![image](https://github.com/user-attachments/assets/17c58014-07d0-41ca-9315-a2372beef1dd)
+
+![image](https://github.com/user-attachments/assets/bbaf81c7-2c37-4c2b-83db-fc0489317bd4)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
